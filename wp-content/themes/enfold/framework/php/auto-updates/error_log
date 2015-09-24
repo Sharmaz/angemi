@@ -1,0 +1,2 @@
+[06-Feb-2015 07:07:19 America/Mexico_City] PHP Fatal error:  Call to undefined function current_theme_supports() in /home/angemico/public_html/wp-content/themes/enfold/framework/php/auto-updates/auto-updates.php on line 6
+[10-Feb-2015 08:57:24 America/Mexico_City] PHP Fatal error:  Call to undefined function current_theme_supports() in /home/angemico/public_html/wp-content/themes/enfold/framework/php/auto-updates/auto-updates.php on line 6

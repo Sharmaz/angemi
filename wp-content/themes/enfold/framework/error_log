@@ -1,0 +1,2 @@
+[05-Feb-2015 09:19:34 America/Mexico_City] PHP Fatal error:  Call to undefined function do_action() in /home/angemico/public_html/wp-content/themes/enfold/framework/avia_framework.php on line 29
+[09-Feb-2015 06:57:58 America/Mexico_City] PHP Fatal error:  Call to undefined function do_action() in /home/angemico/public_html/wp-content/themes/enfold/framework/avia_framework.php on line 29
